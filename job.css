@@ -1,0 +1,102 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+header
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+ul
+{
+	float:right;
+	list-style-type: none;
+	margin-top:50px;
+	margin-right:50px;  
+}
+ul li
+{
+	display: inline-block;
+}
+ul li a
+{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border:1px solid transparant;
+	transition: 0.5s ease;
+}
+ul li a:hover
+{
+	background-color: #fff;
+	color: #000;
+}
+.title
+{
+	position: absolute;
+	top: 30%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+}
+.title h1
+{
+	color: #fff;
+	font-size: 50px;
+	text-decoration: none;
+	transition: 0.5s ease;
+}
+.logo img
+{
+	float: left;
+	width: 300px;
+	height: auto;
+	transition: 0.5s ease;
+}
+.main
+{
+	max-width: 1200px;
+	margin: auto;
+}
+.catagories
+{
+	position: absolute;
+	top: 38%;
+	left: 7%;
+	cursor: pointer;
+}
+.table
+{
+	margin-top: 50px;
+	margin-left: 114px;
+	margin-right: 114px;
+	position: absolute;
+	color: white;
+	top: 35%;
+	transition: 0.5s ease;
+}
+.table a
+{
+	color:#C5FAF8;
+}
+.table a:hover
+{
+	color: #fff;
+}
+.footer
+{
+	position: absolute;
+	top: 90%;
+	left: 42%;
+	color: #fff;
+}
+.dis
+{
+	position: absolute;
+	top: 94%;
+	left: 45%;
+	color: #fff;
+}
