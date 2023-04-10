@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T13:01:17.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Q9afqNq4nEJ_WlKyz4xN" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T13:03:14.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xhEGBS1D0hliMOEKRMZ_" version="21.1.5" type="github">
   <diagram name="Page-1" id="ZsqwyCA6PqbIwT4D6c0m">
     <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M9UiiIYMdCsb07etFsuC-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="50" width="720" height="30" as="geometry" />
+        <mxCell id="M9UiiIYMdCsb07etFsuC-1" value="&lt;b&gt;BaseClass&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="720" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
